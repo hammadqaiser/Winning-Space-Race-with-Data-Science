@@ -1,4 +1,4 @@
-# Winning-Space-Race-with-Data-Science
+# Winning Space Race with Data Science
 IBM Data Science Professional Certificate Capstone Project
 
 ## 📌 What is Capstone Project?
