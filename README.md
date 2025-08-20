@@ -56,7 +56,7 @@ Launch Jupyter Lab or Notebook from the root directory and navigate to the `Jupy
 *   **Version Control:** Git, GitHub
 
 ## 📜 License
-This project is licensed under the Apache License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache-2.0 License - see the [LICENSE](LICENSE) file for details.
 
 ## 👤 Author
 Hammad Qaiser
