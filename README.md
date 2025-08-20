@@ -16,7 +16,7 @@ A capstone project is a final multi-phase assignment typically required at the e
 ### Running the Dashboard Locally
 1.  Clone the repo:
     ```bash
-    git clone https://github.com/your-username/Winning-Space-Race-with-Data-Science.git
+    git clone https://github.com/hammadqaiser/Winning-Space-Race-with-Data-Science.git
     cd Winning-Space-Race-with-Data-Science
     ```
 2.  Install dependencies:
