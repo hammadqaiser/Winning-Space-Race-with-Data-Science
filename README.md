@@ -1,8 +1,11 @@
 # Winning-Space-Race-with-Data-Science
 IBM Data Science Professional Certificate Capstone Project
+
 ## 📌 What is Capstone Project?
 A capstone project is a final multi-phase assignment typically required at the end of a program. It is the most comprehensive demonstration of everything you have learned throughout your program. It can take various forms, including research papers, presentations, or practical work. It serves as a bridge between academic theory and practical application, helping to develop essential skills such as problem-solving, critical thinking, and communication. The term “capstone” comes from architecture—it refers to the top stone placed on a building to complete it.
 
+## 🚀 Project Overview
+A data science case study to predict if SpaceX can successfully land the first stage of their Falcon 9 rocket, thereby revolutionizing space travel by reducing costs. This project covers the full data science lifecycle: data collection via REST API and web scraping, data wrangling, exploratory analysis, interactive visualization with Folium and Plotly Dash, and finally, building and comparing multiple machine learning classification models.
 
 ## 📊 Data Sources
 1.  **SpaceX API:** Collected launch data using a custom Python script.
